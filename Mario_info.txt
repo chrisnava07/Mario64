@@ -1,0 +1,15 @@
+Default Keybinds for Project64
+Analogue
+L - left arrow R - right arrow U - up arrow D - down arrow
+
+C-buttons
+L - delete R - page down U - home D - end
+
+Digital
+L - Numpad 4 R - Numpad 6 U - Numpad 8 D - Numpad 2 A - X B - C S - Enter L - A R - S Z - Z
+
+Players 2-4 are not pre-configured (or enabled)
+
+https://github.com/PercyJaiswal/Find_Lane_Line_Live_OpenCV/blob/master/Live_Lane_Line_Find.py 
+https://towardsdatascience.com/finding-driving-lane-line-live-with-opencv-f17c266f15db
+https://blog.coast.ai/using-reinforcement-learning-in-python-to-teach-a-virtual-car-to-avoid-obstacles-6e782cc7d4c6
